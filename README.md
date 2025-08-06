@@ -1,16 +1,16 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Ayad</h1>
+<h3 align="center">A lazy developer from Northern Iraq</h3>
 
-<!--
-**ayadshkur10221/ayadshkur10221** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=ayadshkur10221&label=Profile%20views&color=0e75b6&style=flat" alt="ayadshkur10221" /> </p>
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on **Something..**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🤝 I’m looking for help with **No One**
+
+- 💬 Ask me about **Nothing**
+
+- ⚡ Fun fact **idk what im doing**
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ayadshkur10221&show_icons=true&locale=en&layout=compact" alt="ayadshkur10221" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ayadshkur10221&show_icons=true&locale=en" alt="ayadshkur10221" /></p>
