@@ -14,3 +14,7 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ayadshkur10221&show_icons=true&locale=en&layout=compact" alt="ayadshkur10221" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ayadshkur10221&show_icons=true&locale=en" alt="ayadshkur10221" /></p>
+
+<picture>
+  <img alt="pacman contribution graph" src="https://profile-readme-generator.com/assets/pacman.svg">
+</picture>
